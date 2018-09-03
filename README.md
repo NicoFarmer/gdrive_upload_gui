@@ -13,9 +13,9 @@ L'intérêt de ce script réside dans le fait qu'il permet de reprendre un uploa
 Référence 
   https://developers.google.com/drive/api/v3/resumable-upload
 
-Liste des paquets à installer pour exécuter le script
-  pip3 install --upgrade google-api-python-client oauth2client
-  pip3 install ConfigParser
-  apt-get install python3-tk
+Liste des paquets à installer pour exécuter le script :
+  - pip3 install --upgrade google-api-python-client oauth2client
+  - pip3 install ConfigParser
+  - apt-get install python3-tk
 
 Le script s'exécute en python3
